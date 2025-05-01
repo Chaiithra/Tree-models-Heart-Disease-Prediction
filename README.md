@@ -94,7 +94,7 @@ heart-disease-prediction/
 
 **1. Clone the Repo**
 ```bash
-git clone https://github.com/Chaiithra/Heart-Disease-Tree-Models.git
+git clone https://github.com/Chaiithra/Tree-models-Heart-Disease-Prediction.git
 ```
 
 **2. Navigate to Project Directory**
@@ -104,7 +104,7 @@ cd heart-disease-prediction
 
 **3. Run the Notebook**
 ```bash
-jupyter notebook Heart_Disease_EDA_Tree_Models.ipynb
+jupyter notebook Tree-models-Heart-Disease-Prediction.ipynb
 ```
 
 ---
