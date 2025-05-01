@@ -127,7 +127,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 
 ## 🙌 Acknowledgements
 
-- **Dataset**: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease)  
+- **Dataset**: [Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset))  
 - **Libraries Used**: Scikit-learn, Pandas, Seaborn, Graphviz, Matplotlib, NumPy
 
 ---
